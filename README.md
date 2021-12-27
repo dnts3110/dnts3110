@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Son Dinh</h1>
 <h3 align="center">A passionate IT student with an interest in Cyber Security</h3>
-
-
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dnts3110&label=Profile%20views&color=48b40e&style=flat-square" alt="dnts3110" /> </p>
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/dnts3110.png" alt="TryHackMe">](https://tryhackme.com/p/dnts3110)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dnts3110&label=Profile%20views&color=48b40e&style=flat-square" alt="dnts3110" /> </p>
 
 - 🎓 I'm currently studying Cyber Security and Web & Mobile App Development at the Macquarie University.
 
@@ -21,7 +16,6 @@
 
 - 📄 Please have a look at my [Resume](https://drive.google.com/file/d/19CP9tKyrJJZrl9c-P_1fSxY2Lbm-n2SF/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/son-dinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="son-dinh" height="30" width="40" /></a>
 </p>
