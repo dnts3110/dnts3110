@@ -5,6 +5,7 @@
 [![badgeTHM_50](https://user-images.githubusercontent.com/65474495/147445037-3460e60e-ccab-4cda-bb67-56e67d60e598.png)](https://tryhackme.com/p/dnts3110)
 
 <h3 align="left">About me:</h3>
+
 - 🎓 I'm currently studying Cyber Security and Web & Mobile App Development at the Macquarie University.
 
 - 🌱 I'm on track for learning more about web development, digital forensics and offensive/defensive security.
