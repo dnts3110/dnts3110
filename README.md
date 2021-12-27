@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Son Dinh</h1>
 <h3 align="center">A passionate IT student with an interest in Cyber Security</h3>
+![alt text](https://tryhackme.com/badge/798558)
+
+
+
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/dnts3110.png" alt="TryHackMe">](https://tryhackme.com/p/dnts3110)
 
