@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Son Dinh</h1>
 <h3 align="center">A passionate IT student with an interest in Cyber Security</h3>
+<script src="https://tryhackme.com/badge/798558"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnts3110&label=Profile%20views&color=48b40e&style=flat-square" alt="dnts3110" /> </p>
 
