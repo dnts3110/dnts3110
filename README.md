@@ -2,7 +2,7 @@
 <h3 align="center">A passionate IT student with an interest in Cyber Security</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dnts3110&label=Profile%20views&color=48b40e&style=flat-square" alt="dnts3110" /> </p>
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/dnts3110.png" alt="TryHackMe">](https://tryhackme.com/p/dnts3110)
+[![badgeTHM_50](https://user-images.githubusercontent.com/65474495/147445037-3460e60e-ccab-4cda-bb67-56e67d60e598.png)](https://tryhackme.com/p/dnts3110)
 
 <h3 align="left">About me:</h3>
 - 🎓 I'm currently studying Cyber Security and Web & Mobile App Development at the Macquarie University.
