@@ -4,6 +4,7 @@
 
 [<img src="https://tryhackme-badges.s3.amazonaws.com/dnts3110.png" alt="TryHackMe">](https://tryhackme.com/p/dnts3110)
 
+<h3 align="left">About me:</h3>
 - 🎓 I'm currently studying Cyber Security and Web & Mobile App Development at the Macquarie University.
 
 - 🌱 I'm on track for learning more about web development, digital forensics and offensive/defensive security.
