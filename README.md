@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Son Dinh</h1>
 <h3 align="center">A passionate IT student with an interest in Cyber Security</h3>
-![alt text](https://tryhackme.com/badge/798558)
+!(https://tryhackme-badges.s3.amazonaws.com/dnts3110.png)
 
 
 
@@ -13,7 +13,7 @@
 
 - 🌱 I'm on track for learning more about web development, digital forensics and offensive/defensive security.
 
-- ✍️  In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.
+- ✍️  In my free time, I love investing my time doing CTFs, learning about linux, web exploitation, or binge watching LiveOverFlow on Youtube.
 
 - 💬  Feel free to reach out to me for competing in CTFs, or just for some interesting discussion.
 
