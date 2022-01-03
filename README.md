@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nho-thanh-son.dinh@students.mq.edu.au**
 
-- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/19CP9tKyrJJZrl9c-P_1fSxY2Lbm-n2SF/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📄 Please have a look at my [Resume](https://drive.google.com/file/d/1aWQ9aBsZtqgUfXq8sEJvyhiyTNw_KEui/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/son-dinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="son-dinh" height="30" width="40" /></a>
